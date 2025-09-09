@@ -1,6 +1,6 @@
 # Briefing – Agente de IA para Engenharia de Software
 
-**Nome do(s) Aluno(s):** Clademir Consalter Júnior, (adicione demais integrantes)  
+**Nome do(s) Aluno(s):** Clademir Consalter Júnior
 **Nome do Projeto:** DevHelper SISCHEF
 
 ## O Problema
