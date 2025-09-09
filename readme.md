@@ -154,6 +154,3 @@ projeto-final-ia/
 
 MIT
 
----
-
-Quer que eu prepare também um **prompt parecido para os slides (PPTX)**, já com o título “DevHelper Sischef”, pra você só colar no PowerPoint se quiser editar rápido?
