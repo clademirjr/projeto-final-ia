@@ -1,6 +1,3 @@
-Perfeito, Clade 🙌
-Aqui está o prompt completo que você pode copiar e colar direto no teu `readme.md` e já deixar pronto com o nome **DevHelper Sischef**:
-
 ---
 markdown
 # 🤖 DevHelper Sischef – Projeto Final de IA para Engenharia de Software
